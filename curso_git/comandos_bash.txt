@@ -1,0 +1,6 @@
+ls lista de arquivos
+cd move entre directorios
+pwd modtra os directorios
+cat exibe o conteúdo dos aquivos
+rm remove arquivos ou directorios
+rm -rf
