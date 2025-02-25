@@ -1,0 +1,18 @@
+[project]
+name = "pipeline-local"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Ludovina Magalhaes",email = "166879716+lagmagalhaes@users.noreply.github.com"}
+]
+license = {text = "3.12.6"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel (>=6.29.5,<7.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
