@@ -178,4 +178,15 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+
+# Ignorar diretórios de ambientes virtuais
+ambiente_virtual_pyenv/
+ambiente_virtual_requirements/
+projeto_poetry_poenvy/
+local/
+.venv/
+__pycache__/
+*.db
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python
